@@ -9,5 +9,4 @@ import PatternsLib
 //print(CommandLine.arguments[1])
 
 
-__use_communicator_1()
 
